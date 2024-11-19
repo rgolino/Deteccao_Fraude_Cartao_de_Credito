@@ -83,4 +83,4 @@ Este tipo de projeto tem aplicações práticas em diversos contextos, incluindo
 
 ## Projeto Completo
 
-[Fraude Cartão de Crédito](https://github.com/rgolino/Estudo_de_Caso_Covid-19/blob/main/PROJETO_Panorama_do_COVID_19_no_Brasil.ipynb)
+[Fraude Cartão de Crédito](https://github.com/rgolino/Deteccao_Fraude_Cartao_de_Credito/blob/main/PROJETO_Detec%C3%A7%C3%A3o_de_Fraude_em_Cart%C3%B5es_de_Cr%C3%A9dito.ipynb)
