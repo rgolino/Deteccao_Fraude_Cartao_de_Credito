@@ -1,7 +1,19 @@
 
-# Projeto: Detecção de Fraude em Cartões de Crédito
+# Projeto de Detecção de Fraude em Cartões de Crédito
 
-Este projeto tem como objetivo identificar transações fraudulentas em um conjunto de dados de transações com cartões de crédito. Ele utiliza técnicas de análise de dados, balanceamento de classes e aprendizado de máquina para construir um modelo preditivo eficiente.
+## Objetivo do Projeto
+
+O objetivo principal deste projeto é construir um sistema de aprendizado de máquina capaz de identificar transações fraudulentas em cartões de crédito com alta precisão. O projeto busca explorar um dataset desbalanceado e aplicar técnicas de análise de dados, balanceamento de classes e modelagem preditiva para detectar comportamentos anômalos que caracterizam fraudes financeiras.
+
+## Aplicações
+Este tipo de projeto tem aplicações práticas em diversos contextos, incluindo:
+- **Bancos e Instituições Financeiras**: Monitoramento em tempo real de transações para prevenir perdas financeiras e proteger clientes.
+- **Provedores de Pagamento**: Empresas como PayPal, Stripe e Square podem integrar modelos como este para aumentar a segurança de suas plataformas.
+- **Segurança Cibernética**: Análises preventivas de dados transacionais para mitigar riscos de fraudes futuras.
+- **Seguradoras**: Detecção de comportamentos fraudulentos em pedidos de indenizações relacionados a cartões de crédito.
+
+
+
 
 ## Pipeline do Projeto
 
@@ -60,6 +72,11 @@ Este projeto tem como objetivo identificar transações fraudulentas em um conju
 ## Resultados
 - Um modelo de Regressão Logística foi construído e avaliado, apresentando boa capacidade de diferenciar fraudes de transações legítimas com base nas métricas de avaliação.
 
----
+- O projeto proporcionou tanbém:
+  1. **Modelo Preciso**: Um modelo preditivo que diferencie transações legítimas de fraudulentas com alto grau de acurácia.
+  2. **Redução de Falsos Positivos/Negativos**: Otimização das métricas de desempenho para minimizar tanto a classificação errada de transações legítimas quanto a não detecção de fraudes.
+  3. **Insights sobre o Dataset**: Melhor compreensão de padrões e anomalias nos dados de transações financeiras.
+  4. **Implementação Prática**: Desenvolvimento de um pipeline reutilizável que pode ser adaptado a outros conjuntos de dados ou sistemas de monitoramento em tempo real.
 
+__
 **Autor:** Projeto desenvolvido para análise e aprendizado de técnicas de detecção de fraudes.
