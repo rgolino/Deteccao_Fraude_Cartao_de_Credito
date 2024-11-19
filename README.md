@@ -82,3 +82,5 @@ Este tipo de projeto tem aplicações práticas em diversos contextos, incluindo
   4. **Implementação Prática**: Desenvolvimento de um pipeline reutilizável que pode ser adaptado a outros conjuntos de dados ou sistemas de monitoramento em tempo real.
 
 ## Projeto Completo
+
+[Fraude Cartão de Crédito](https://github.com/rgolino/Estudo_de_Caso_Covid-19/blob/main/PROJETO_Panorama_do_COVID_19_no_Brasil.ipynb)
