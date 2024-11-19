@@ -1,5 +1,8 @@
+[![author](https://img.shields.io/badge/author-rgolino-red.svg)](https://www.linkedin.com/in/renato-golino/) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/rafaelnduarte/portfolio/issues)
+
 
 # Projeto de Detecção de Fraude em Cartões de Crédito
+<img src ="https://img.freepik.com/fotos-gratis/plano-de-fundo-do-hacker-de-matriz_23-2150082007.jpg?t=st=1732052038~exp=1732055638~hmac=64a55aebfb48f3af448434e6edd92d6c94dab26bbe564c34d673870834de433e&w=1380">
 
 ## Objetivo do Projeto
 
@@ -78,5 +81,4 @@ Este tipo de projeto tem aplicações práticas em diversos contextos, incluindo
   3. **Insights sobre o Dataset**: Melhor compreensão de padrões e anomalias nos dados de transações financeiras.
   4. **Implementação Prática**: Desenvolvimento de um pipeline reutilizável que pode ser adaptado a outros conjuntos de dados ou sistemas de monitoramento em tempo real.
 
-__
-**Autor:** Projeto desenvolvido para análise e aprendizado de técnicas de detecção de fraudes.
+## Projeto Completo
